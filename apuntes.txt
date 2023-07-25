@@ -1,0 +1,9 @@
+ciclo de vida del software
+
+-requerimientos
+-diseño
+-implementacion
+-verificacion 
+-mantenimiento
+
+cvs ciclo de vida del software
